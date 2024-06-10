@@ -11515,20 +11515,16 @@
               }),
               (0, c.jsxs)("div", {
                 className: "",
+                style: {
+                  marginTop: 10,
+                  marginBottom: 10,
+                },
                 children: [
-                  (0, c.jsx)("div", {
-                    className: "",
-                    style: {
-                      marginTop: 10,
-                      marginBottom: 10,
-                    },
-                  }),
                   (0, c.jsx)("input", {
                     type: "text",
                     value: v,
                     onChange: (e) => y(e.target.value),
                     style: {
-                      type: "text",
                       width: "95%",
                       padding: 10,
                       paddingTop: 15,
@@ -11546,6 +11542,13 @@
               (0, c.jsxs)("div", {
                 className: "",
                 children: [
+                  (0, c.jsx)("div", {
+                    className: "",
+                    style: {
+                      marginTop: 10,
+                      marginBottom: 10,
+                    },
+                  }),
                   (0, c.jsx)("input", {
                     type: "text",
                     value: b,
@@ -11560,8 +11563,8 @@
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
-                      placeholder: "Business Email Address",
                     },
+                    placeholder: "Business Email Address",
                   }),
                 ],
               }),
