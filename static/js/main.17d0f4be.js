@@ -11528,7 +11528,7 @@
                     value: v,
                     onChange: (e) => y(e.target.value),
                     style: {
-                      type: text,
+                      type: "text",
                       width: "95%",
                       padding: 10,
                       paddingTop: 15,
