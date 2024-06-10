@@ -10954,9 +10954,7 @@
                 },
                 children: (0, c.jsx)("div", {
                   style: {
-                    marginTop: 40,
-                    marginRight: 10,
-                    marginLeft: 10,
+                    marginTop: 20,
                     maxWidth: 600,
                   },
                   children: (0, c.jsxs)("div", {
@@ -10965,6 +10963,7 @@
                       backgroundColor: "white",
                       minHeight: 200,
                       borderRadius: 5,
+                      paddingLeft: 2,
                     },
                     children: [
                       (0, c.jsx)("div", {
