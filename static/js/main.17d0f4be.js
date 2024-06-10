@@ -11541,14 +11541,11 @@
               }),
               (0, c.jsxs)("div", {
                 className: "",
+                style: {
+                  marginTop: 10,
+                  marginBottom: 10,
+                },
                 children: [
-                  (0, c.jsx)("div", {
-                    className: "",
-                    style: {
-                      marginTop: 10,
-                      marginBottom: 10,
-                    },
-                  }),
                   (0, c.jsx)("input", {
                     type: "text",
                     value: b,
@@ -11570,6 +11567,10 @@
               }),
               (0, c.jsxs)("div", {
                 className: "",
+                style: {
+                  marginTop: 10,
+                  marginBottom: 10,
+                },
                 children: [
                   (0, c.jsx)("input", {
                     type: "text",
@@ -11592,6 +11593,10 @@
               }),
               (0, c.jsxs)("div", {
                 className: "",
+                style: {
+                  marginTop: 10,
+                  marginBottom: 10,
+                },
                 children: [
                   (0, c.jsx)("input", {
                     type: "text",
@@ -11614,6 +11619,10 @@
               }),
               (0, c.jsxs)("div", {
                 className: "",
+                style: {
+                  marginTop: 10,
+                  marginBottom: 10,
+                },
                 children: [
                   (0, c.jsx)("input", {
                     type: "text",
