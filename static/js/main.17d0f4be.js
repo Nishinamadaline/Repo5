@@ -11508,14 +11508,26 @@
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
-                      placeholder: "More info...",
                     },
+                    placeholder: "More info...",
                   }),
                 ],
               }),
               (0, c.jsxs)("div", {
                 className: "",
                 children: [
+                  (0, c.jsxs)("div", {
+                    className: "",
+                    children: [
+                      (0, c.jsx)("div", {
+                        className: "",
+                        style: {
+                          
+                         
+                        
+                          marginTop: 10,
+                          marginBottom: 10,}
+                        }),
                   (0, c.jsx)("input", {
                     type: "text",
                     value: v,
@@ -11532,6 +11544,7 @@
                       border: "1px solid #d0d0d0",
                       placeholder: "Full Name",
                     },
+                    placeholder: "Full Name",
                   }),
                 ],
               }),
