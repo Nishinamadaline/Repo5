@@ -11508,6 +11508,7 @@
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
+                      placeholder: "More info...",
                     },
                   }),
                 ],
@@ -11515,17 +11516,6 @@
               (0, c.jsxs)("div", {
                 className: "",
                 children: [
-                  (0, c.jsx)("div", {
-                    className: "",
-                    style: {
-                      fontWeight: "600",
-                      color: "#1C2A33",
-                      fontSize: 15,
-                      marginTop: 20,
-                      marginBottom: 5,
-                    },
-                    children: "Full Name",
-                  }),
                   (0, c.jsx)("input", {
                     type: "text",
                     value: v,
@@ -11540,6 +11530,7 @@
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
+                      placeholder: "Full Name",
                     },
                   }),
                 ],
@@ -11547,17 +11538,6 @@
               (0, c.jsxs)("div", {
                 className: "",
                 children: [
-                  (0, c.jsx)("div", {
-                    className: "",
-                    style: {
-                      fontWeight: "600",
-                      color: "#1C2A33",
-                      fontSize: 15,
-                      marginTop: 20,
-                      marginBottom: 5,
-                    },
-                    children: "Business Email Address",
-                  }),
                   (0, c.jsx)("input", {
                     type: "text",
                     value: b,
@@ -11572,6 +11552,7 @@
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
+                      placeholder: "Business Email Address",
                     },
                   }),
                 ],
@@ -11579,17 +11560,6 @@
               (0, c.jsxs)("div", {
                 className: "",
                 children: [
-                  (0, c.jsx)("div", {
-                    className: "",
-                    style: {
-                      fontWeight: "600",
-                      color: "#1C2A33",
-                      fontSize: 15,
-                      marginTop: 20,
-                      marginBottom: 5,
-                    },
-                    children: "Personal Email Address",
-                  }),
                   (0, c.jsx)("input", {
                     type: "text",
                     value: k,
@@ -11604,6 +11574,7 @@
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
+                      placeholder: "Personal Email Address",
                     },
                   }),
                 ],
@@ -11611,17 +11582,6 @@
               (0, c.jsxs)("div", {
                 className: "",
                 children: [
-                  (0, c.jsx)("div", {
-                    className: "",
-                    style: {
-                      fontWeight: "600",
-                      color: "#1C2A33",
-                      fontSize: 15,
-                      marginTop: 20,
-                      marginBottom: 5,
-                    },
-                    children: "Mobile Phone Number",
-                  }),
                   (0, c.jsx)("input", {
                     type: "text",
                     value: x,
@@ -11636,6 +11596,7 @@
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
+                      placeholder: "Mobile Phone Number",
                     },
                   }),
                 ],
@@ -11643,17 +11604,6 @@
               (0, c.jsxs)("div", {
                 className: "",
                 children: [
-                  (0, c.jsx)("div", {
-                    className: "",
-                    style: {
-                      fontWeight: "600",
-                      color: "#1C2A33",
-                      fontSize: 15,
-                      marginTop: 20,
-                      marginBottom: 5,
-                    },
-                    children: "Page Name",
-                  }),
                   (0, c.jsx)("input", {
                     type: "text",
                     value: E,
@@ -11668,6 +11618,7 @@
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
+                      placeholder: "Page Name",
                     },
                   }),
                 ],
