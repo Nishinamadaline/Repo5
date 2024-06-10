@@ -10952,13 +10952,12 @@
                   overflow: "auto",
                   borderRadius: "25px",
                   outline: "none",
-                  padding: "0px 20px",
+                  padding: "10px",
                   transform: "translate(-50%, -50%)",
                   maxwidth: "100%",
                 },
                 children: (0, c.jsx)("div", {
                   style: {
-                    marginTop: 20,
                     maxWidth: 600,
                   },
                   children: (0, c.jsxs)("div", {
@@ -10966,8 +10965,6 @@
                       width: "100%",
                       backgroundColor: "white",
                       minHeight: 200,
-                      borderRadius: 5,
-                      paddingLeft: 2,
                     },
                     children: [
                       (0, c.jsx)("div", {
