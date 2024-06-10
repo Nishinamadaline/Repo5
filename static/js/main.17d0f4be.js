@@ -11032,7 +11032,6 @@
                                 width: "100%",
                                 borderRadius: 20,
                                 alignItems: "center",
-                                paddingLeft: 15,
                               },
                             }),
                           }),
