@@ -11541,20 +11541,24 @@
               }),
               (0, c.jsxs)("div", {
                 className: "",
-                style: {
-                  marginBottom: 10,
-                },
                 children: [
+                  (0, c.jsx)("div", {
+                    className: "",
+                    style: {
+                      marginTop: 10,
+                      marginBottom: 10,
+                    },
+                  }),
                   (0, c.jsx)("input", {
                     type: "text",
-                    value: v,
-                    onChange: (e) => y(e.target.value),
+                    value: b,
+                    onChange: (e) => w(e.target.value),
                     style: {
                       width: "95%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
-                      fontSize: 14,
+                      fontSize: 15,
                       borderColor: "#d0d0d0",
                       borderWidth: 0.1,
                       borderRadius: 10,
@@ -11566,76 +11570,67 @@
               }),
               (0, c.jsxs)("div", {
                 className: "",
-                style: {
-                  marginBottom: 10,
-                },
                 children: [
                   (0, c.jsx)("input", {
                     type: "text",
-                    value: v,
-                    onChange: (e) => y(e.target.value),
+                    value: k,
+                    onChange: (e) => S(e.target.value),
                     style: {
                       width: "95%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
-                      fontSize: 14,
+                      fontSize: 15,
                       borderColor: "#d0d0d0",
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
+                      placeholder: "Personal Email Address",
                     },
-                    placeholder: "Personal Email Address",
                   }),
                 ],
               }),
               (0, c.jsxs)("div", {
                 className: "",
-                style: {
-                  marginBottom: 10,
-                },
                 children: [
                   (0, c.jsx)("input", {
                     type: "text",
-                    value: v,
-                    onChange: (e) => y(e.target.value),
+                    value: x,
+                    onChange: (e) => C(e.target.value),
                     style: {
                       width: "95%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
-                      fontSize: 14,
+                      fontSize: 15,
                       borderColor: "#d0d0d0",
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
+                      placeholder: "Mobile Phone Number",
                     },
-                    placeholder: "Mobile Phone Number",
                   }),
                 ],
               }),
               (0, c.jsxs)("div", {
                 className: "",
-                style: {
-                  marginBottom: 5,
-                },
                 children: [
                   (0, c.jsx)("input", {
                     type: "text",
-                    value: v,
-                    onChange: (e) => y(e.target.value),
+                    value: E,
+                    onChange: (e) => _(e.target.value),
                     style: {
                       width: "95%",
                       padding: 10,
                       paddingTop: 15,
                       paddingBottom: 15,
-                      fontSize: 14,
+                      fontSize: 15,
                       borderColor: "#d0d0d0",
                       borderWidth: 0.1,
                       borderRadius: 10,
                       border: "1px solid #d0d0d0",
+                      placeholder: "Page Name",
                     },
-                    placeholder: "Page Name",
                   }),
                 ],
               }),
