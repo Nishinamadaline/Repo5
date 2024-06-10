@@ -11516,18 +11516,13 @@
               (0, c.jsxs)("div", {
                 className: "",
                 children: [
-                  (0, c.jsxs)("div", {
+                  (0, c.jsx)("div", {
                     className: "",
-                    children: [
-                      (0, c.jsx)("div", {
-                        className: "",
-                        style: {
-                          
-                         
-                        
-                          marginTop: 10,
-                          marginBottom: 10,}
-                        }),
+                    style: {
+                      marginTop: 10,
+                      marginBottom: 10,
+                    },
+                  }),
                   (0, c.jsx)("input", {
                     type: "text",
                     value: v,
