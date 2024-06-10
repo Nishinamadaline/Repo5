@@ -10788,7 +10788,12 @@
             };
           }, []);
           return (0, c.jsxs)("div", {
-            style: { backgroundColor: "#F5FFFA", height: "100vh" },
+            style: {
+              backgroundColor: "#F5FFFA",
+              height: "100vh",
+              border: "10px",
+              Composition: fixed,
+            },
             children: [
               (0, c.jsx)("div", {
                 className: "header",
