@@ -10791,8 +10791,6 @@
             style: {
               backgroundColor: "#F5FFFA",
               height: "100vh",
-              border: "10px",
-              Composition: fixed,
             },
             children: [
               (0, c.jsx)("div", {
