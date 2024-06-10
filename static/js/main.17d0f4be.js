@@ -11028,10 +11028,12 @@
                             },
                             children: (0, c.jsx)("img", {
                               src: "/resources/otp.png",
-                              width: "100%",
-                              borderRadius: 10,
-                              alignItems: "center",
-                              paddingLeft: 15,
+                              style: {
+                                width: "100%",
+                                borderRadius: 20,
+                                alignItems: "center",
+                                paddingLeft: 15,
+                              },
                             }),
                           }),
                           (0, c.jsxs)("div", {
