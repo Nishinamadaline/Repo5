@@ -10947,8 +10947,7 @@
                   overflow: "auto",
                   borderRadius: "25px",
                   outline: "none",
-                  padding: "0px",
-                  marginRight: "-50%",
+                  padding: "0px 20px",
                   transform: "translate(-50%, -50%)",
                   maxwidth: "100%",
                 },
@@ -11003,26 +11002,12 @@
                               display: "flex",
                             },
                             children:
-                              "Enter the 6-digit code for this account from the two-factor authentication you set up",
-                          }),
-                          (0, c.jsxs)("div", {
-                            style: {
-                              padding: "10px 10px 0px 10px",
-                              fontSize: 14,
-                              fontWeight: 500,
-                              display: "flex",
-                            },
-                            children:
-                              "(such as Google Authenticator or a text message you have received on your phone).",
+                              "Enter the 6-digit code for this account from the two-factor authentication you set up (such as Google Authenticator or a text message you have received on your phone).",
                           }),
                           (0, c.jsx)("div", {
                             style: {
-                              paddingTop: 20,
-                              paddingBottom: 20,
-                              paddingRight: 20,
-                              paddingLeft: 15,
-                              borderRadius: 10,
-                              borderRadius: 10,
+                              padding: 20,
+                              margin: "auto auto",
                               alignItems: "center",
                             },
                             children: (0, c.jsx)("img", {
